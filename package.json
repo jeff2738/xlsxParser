@@ -1,5 +1,5 @@
 {
-  "name": "xlsxParse",
+  "name": "xlsxParser",
   "version": "1.0.0",
   "description": "parse xlsx by column",
   "main": "index.js",
