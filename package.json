@@ -1,6 +1,6 @@
 {
   "name": "xlsxParser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "parse xlsx by column",
   "main": "index.js",
   "dependencies": {
@@ -10,6 +10,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "jeff",
+  "author": {
+    "name": "jeff"
+  },
   "license": "ISC"
 }
